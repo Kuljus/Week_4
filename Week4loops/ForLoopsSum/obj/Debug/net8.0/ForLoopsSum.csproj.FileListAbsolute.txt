@@ -1,0 +1,14 @@
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\ForLoopsSum\obj\Debug\net8.0\ForLoopsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\ForLoopsSum\obj\Debug\net8.0\ForLoopsSum.AssemblyInfoInputs.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\ForLoopsSum\obj\Debug\net8.0\ForLoopsSum.AssemblyInfo.cs
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\ForLoopsSum\obj\Debug\net8.0\ForLoopsSum.csproj.CoreCompileInputs.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\ForLoopsSum\bin\Debug\net8.0\ForLoopsSum.exe
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\ForLoopsSum\bin\Debug\net8.0\ForLoopsSum.deps.json
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\ForLoopsSum\bin\Debug\net8.0\ForLoopsSum.runtimeconfig.json
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\ForLoopsSum\bin\Debug\net8.0\ForLoopsSum.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\ForLoopsSum\bin\Debug\net8.0\ForLoopsSum.pdb
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\ForLoopsSum\obj\Debug\net8.0\ForLoopsSum.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\ForLoopsSum\obj\Debug\net8.0\refint\ForLoopsSum.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\ForLoopsSum\obj\Debug\net8.0\ForLoopsSum.pdb
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\ForLoopsSum\obj\Debug\net8.0\ForLoopsSum.genruntimeconfig.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\ForLoopsSum\obj\Debug\net8.0\ref\ForLoopsSum.dll

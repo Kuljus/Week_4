@@ -1,0 +1,14 @@
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\Week4loops\bin\Debug\net8.0\Week4loops.exe
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\Week4loops\bin\Debug\net8.0\Week4loops.deps.json
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\Week4loops\bin\Debug\net8.0\Week4loops.runtimeconfig.json
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\Week4loops\bin\Debug\net8.0\Week4loops.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\Week4loops\bin\Debug\net8.0\Week4loops.pdb
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\Week4loops\obj\Debug\net8.0\Week4loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\Week4loops\obj\Debug\net8.0\Week4loops.AssemblyInfoInputs.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\Week4loops\obj\Debug\net8.0\Week4loops.AssemblyInfo.cs
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\Week4loops\obj\Debug\net8.0\Week4loops.csproj.CoreCompileInputs.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\Week4loops\obj\Debug\net8.0\Week4loops.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\Week4loops\obj\Debug\net8.0\refint\Week4loops.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\Week4loops\obj\Debug\net8.0\Week4loops.pdb
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\Week4loops\obj\Debug\net8.0\Week4loops.genruntimeconfig.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 4\Week4loops\Week4loops\obj\Debug\net8.0\ref\Week4loops.dll
